@@ -21,3 +21,8 @@ pip install investpy
 
 # ejecutar
 py mov_browniano_geo.py
+
+py modelo_merton_jump_diff.py
+
+py modelo_heston.py
+
